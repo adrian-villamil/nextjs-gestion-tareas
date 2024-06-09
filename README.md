@@ -33,4 +33,4 @@ Una pequeña aplicación para la gestión de tareas diarias. Esta app fue desarr
     bun dev
     ```
 
->**Nota:** Como la aplicación es pequeña, se utilizó SQLite como la base de datos en Prisma, por lo tanto es perfecta para ambientes de desarrollo. Si quieres correr la app en producción, es recomendable usar una base de datos diferente.
+>**Nota:** Como la aplicación es pequeña, se utilizó SQLite como la base de datos en Prisma, por lo tanto es perfecta para ambientes de desarrollo, ya que no requiere de otras instalaciones. Si quieres correr la app en producción, es recomendable usar una base de datos diferente.
