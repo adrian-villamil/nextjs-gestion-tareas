@@ -6,7 +6,7 @@ Una pequeña aplicación para la gestión de tareas diarias. Esta app fue desarr
 
 ## Pasos para correr la aplicación en ambiente local
 
-1. Clona el repositorio o descarga el proyecto [aquí](https://github.com/adrian-villamil/nextjs-gestion-tareas):
+1. Clona el repositorio o descarga el proyecto [aquí](https://github.com/adrian-villamil/nextjs-gestion-tareas/archive/refs/heads/main.zip):
     ```bash
     git clone https://github.com/adrian-villamil/nextjs-gestion-tareas.git
     ```
